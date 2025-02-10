@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.modal-header div{
+    background-color: rgb(101, 241, 101);
+}
+.close-modal{
+    position: relative;
+    right:0;
+}
